@@ -1,9 +1,14 @@
-This is the code of computing 2D Minkowski Functionals from the spherical maps,
+This is the code of computing 2D Minkowski Functionals for spherical density maps,
 such as CMB or weak lensing convergence maps, in the HEALPix format.
 
-After adding an appropriate CFITIO library path to Makefile,
+CFITSIO Library is necessary.
+
+After adding an appropriate CFITIO library path to Makefile, type
 make
 
 You can do a test calculation by  
 make test
 
+References:
+ C. Hikage, E. Komatsu, T. Matsubara, ApJ 653 (2006), 11-26
+ C. Hikage, T. Matsubara, P. Coles, M. Liguori, F. K. Hansen, S. Matarrese, MNRAS 389 (2008), 1439-1446
