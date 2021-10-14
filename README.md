@@ -20,7 +20,7 @@ CMBのような2次元の場では、ミンコフスキー汎関数には表面�
 
 なお、本コードは2次元の球面上の場として表されるものであればCMB温度ゆらぎ以外の場(例えば、CMBの偏光場や弱い重力レンズ場)に応用できます。
 
-# References:
+# References
 - Primordial Non-Gaussianity and Analytical Formula for Minkowski Functionals of the Cosmic Microwave Background and Large-scale Structure  
 Chiaki Hikage, Eiichiro Komatsu, Takahiko Matsubara  
 Astrophys. J., Vol.653 No.1 (2006), pp.11-26
