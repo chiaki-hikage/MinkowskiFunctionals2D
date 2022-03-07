@@ -9,7 +9,6 @@ make
 You can do a test calculation by  
 make test
 
-
 References:
  C. Hikage, E. Komatsu, T. Matsubara, ApJ 653 (2006), 11-26
  C. Hikage, T. Matsubara, P. Coles, M. Liguori, F. K. Hansen, S. Matarrese, MNRAS 389 (2008), 1439-1446
